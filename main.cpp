@@ -13,7 +13,11 @@ int main() {
 
     while (true) {
         std::string expresion;
+<<<<<<< HEAD
         std::cout << "Ingresa una expresion en notacion RPN (o 'salir' para finalizar): ";
+=======
+        std::cout << "Ingresa una expresión en notacion RPN (o 'salir' para finalizar): ";
+>>>>>>> f850bb2 (Initial commit)
         std::getline(std::cin, expresion);
 
         if (expresion == "salir") {
