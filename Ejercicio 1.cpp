@@ -74,5 +74,4 @@ int main() {
 
     std::cout << "Resultado: " << result << std::endl;
     return 0;
-
 }
